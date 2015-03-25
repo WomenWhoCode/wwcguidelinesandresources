@@ -41,6 +41,8 @@
 * [Exercism](http://www.exercism.io/)
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
+* [Egghead.io](https://egghead.io/tags/free) - training videos (AngularJS, React, JavaScript, Node.js, and more)
+* [Jeff Cunningham's AngularJS-Learning repo](https://github.com/jmcunningham/AngularJS-Learning/)
 
 #####Python
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
