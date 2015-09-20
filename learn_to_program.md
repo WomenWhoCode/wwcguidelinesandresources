@@ -110,6 +110,10 @@
 *   [Objective-C Programming: The Big Nerd Ranch Guide (2nd Edition):](http://www.amazon.com/Objective-C-Programming-Ranch-Guide-Guides/dp/032194206X/ref=sr_1_1?s=books&ie=UTF8&qid=1440459142&sr=1-1&keywords=objective+c&pebp=1440459145149&perid=0AX7W4FGDD464TBJAAYZ)
 *   [iOS Programming: The Big Nerd Ranch Guide (4th Edition):](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0321942051)
 
+#####Elixir
+* [Introduction to Elixir:](http://elixir-lang.org/getting-started/introduction.html)
+* [Phoenix Framework Up and Running:](http://www.phoenixframework.org/docs/up-and-running)
+
 #####Data
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
 *   [edX - Explore statistics with R](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0)
