@@ -96,8 +96,8 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 * [Codecademy’s PHP course](https://www.codecademy.com/learn/php)
 * [Learn PHP](http://www.learn-php.org) 
 * [PHP the right way](http://www.phptherightway.com) 
-* [Laracasts serie on Laravel](https://laracasts.com/series/laravel-5-from-scratch) a great way to learn modern PHP development practices
-* [Laracasts serie on PHP7](https://laracasts.com/series/php7-up-and-running)
+* [Laracasts series on Laravel](https://laracasts.com/series/laravel-5-from-scratch) a great way to learn modern PHP development practices
+* [Laracasts series on PHP7](https://laracasts.com/series/php7-up-and-running)
 
 #####Python
 *   [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
