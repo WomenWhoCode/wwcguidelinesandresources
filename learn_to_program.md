@@ -189,6 +189,10 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Project Euler](http://projecteuler.net/)
 *   [Visualgo](http://visualgo.net/) - Animated visualizations for algorithms
 
+#####Elixir
+* [Introduction to Elixir:](http://elixir-lang.org/getting-started/introduction.html)
+* [Phoenix Framework Up and Running:](http://www.phoenixframework.org/docs/up-and-running)
+
 #####Data
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
 *   [edX - Explore statistics with R](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0)
