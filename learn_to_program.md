@@ -78,6 +78,9 @@ Hi! Feel free to contribute new links and resources to this document. Please add
    *  [Head First Android Development](http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184)
    *  [Programming Android](http://www.amazon.com/dp/1449389694?tag=top-books-cs-20)
 
+#####Android
+*   [Udacity - Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree--nd801))
+
 #####Java
 *   [Head First Java](http://www.headfirstlabs.com/books/hfjava/)
 *   [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
