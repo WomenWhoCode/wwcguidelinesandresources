@@ -12,6 +12,8 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Google Developers - Your First Progressive Web App] (https://developers.google.com/web/fundamentals/getting-started/?hl=en)
 *   [Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)
 *   [Free Code Camp] (https://www.freecodecamp.com/)
+*   [DevDocs](http://devdocs.io)
+*   [CS50x: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 #####C/C++
 *   [C/C++ Reference](http://en.cppreference.com/w/)
@@ -44,6 +46,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Go Forum](https://forum.golangbridge.org/categories)
 
 #####HTML/CSS
+*   [HTML5 Course from W3C](https://www.edx.org/xseries/html5-w3c)
 *   [35 Useful CSS3 Tutorials To Boost Your Skills](http://www.tripwiremagazine.com/2012/06/css3-tutorials.html)
 *   [W3Schools Online Web Tutorials](http://www.w3schools.com/)
 *   [BuildingWebApps.com](http://www.buildingwebapps.com/)
@@ -167,7 +170,6 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [The Web Testing Handbook](http://www.amazon.com/The-Testing-Handbook-Steven-Splaine/dp/0970436300)
 
 #####Smalltalk
-
 * [GNU Smalltalk User's Guide](https://www.gnu.org/software/smalltalk/manual/html_node/Tutorial.html)
 * [smalltalk dot org](http://www.smalltalk.org/smalltalk/learning.html)
 * [Computer Programming using GNU Smalltalk](http://www.canol.info/books/computer_programming_using_gnu_smalltalk/)
@@ -189,6 +191,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 #####Algorithms
 *   [Project Euler](http://projecteuler.net/)
 *   [Visualgo](http://visualgo.net/) - Animated visualizations for algorithms
+*   [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 
 #####Data
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
@@ -272,6 +275,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 
 #####Schools
 *   [Khan Academy](http://www.khanacademy.org/#computer-science)
+*   [edX](https://www.edx.org/)
 *   [Learn Web Design, Web Development, and iOS Development](http://teamtreehouse.com/)
 *   [Codecademy.com](http://www.codecademy.com/#!/exercise/0)
 *   [Stanford School of Engineering](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
