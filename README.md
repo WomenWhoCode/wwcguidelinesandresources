@@ -2,8 +2,9 @@
 
 # Guidelines and Resources
 
-[![GitHub Issues](https://img.shields.io/github/issues/fvcproductions/social-justice-foss.svg?style=flat-square)](https://github.com/WomenWhoCode/guidelines-resources/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/fvcproductions/social-justice-foss.svg?style=flat-square)](https://github.com/WomenWhoCode/guidelines-resources/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/WomenWhoCode/guidelines-resources.svg?style=flat-square)](https://github.com/WomenWhoCode/guidelines-resources/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/WomenWhoCode/guidelines-resources.svg?style=flat-square)](https://github.com/WomenWhoCode/guidelines-resources/pulls)
+[![MIT License](https://img.shields.io/github/license/WomenWhoCode/guidelines-resources.svg?style=flat-square)](http://badges.mit-license.org)
 
 This repository is where we will gather resources and guidelines for WWC chapters.
 
@@ -24,7 +25,3 @@ Mission, Vision, Key Initiative, Empowerment, and tenative press kit.
 ## Contributing
 
 Please submit a pull request! This is in the very early stages of development.
-
-## License
-
-All content is provided under the MIT License. For more information, please see the `LICENSE` file.
