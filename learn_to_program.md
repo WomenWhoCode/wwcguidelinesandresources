@@ -1,3 +1,5 @@
+## Learn to program
+
 Hi! Feel free to contribute new links and resources to this document. Please add your resource under the appropriate heading, creating new ones where necessary. It'd also be great if you added a few words describing your resource! For example: if it's a paid resource, what format it's in, if it's particularly good for beginner or advanced people, etc.
 
 ##### General orientation to programming and careers
@@ -129,6 +131,9 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 * [You Don't know JS](https://github.com/getify/You-Dont-Know-JS)
 * [Practical Javascript](http://practicaljavascript.net) Free Javascript course, good for beginners to get a good grounding in the basics. Great analogies for arrays, objects & loops. Also has a companion [Facebook group](https://www.facebook.com/groups/514043678767094/) and a weekly online study/q&a session.
 * [JavaScript30](https://javascript30.com/) - Learn JavaScript by building 30 things in 30 days.
+* [SuperheroJS](http://superherojs.com/) - Collection of articles, videos, and presentations
+* [ES6 in depth](https://hacks.mozilla.org/category/es6-in-depth/)
+* [Learning Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - A book by Addy Osmani
 
 ##### PHP
 * [Codecademy’s PHP course](https://www.codecademy.com/learn/php)
