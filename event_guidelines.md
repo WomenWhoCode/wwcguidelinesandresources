@@ -1,4 +1,4 @@
-# Gevent GuideLines
+# Event GuideLines
 
 ## TABLE OF CONTENTS
 * [PEP-TALK](##PEP-TALK)
