@@ -9,117 +9,117 @@
 * [EVENT CHECKLIST](##EVENT-CHECKLIST)
 
 ## PEP-TALK
-Dear awesome WWCode Leader, 
-Congratulations! You’ve stepped into leadership with Women Who Code. Now what? 
-In-person events are one of WWCode’s main program avenues. They inspire the community and build the network. Most importantly, they inspire members with the skills and confidence needed to advance their technical careers.  
-We know that you’ve got this. You are passionate about inspiring other women in tech, have experience in the industry, and are ready to share your skills and knowledge.  
-Use this document to better understand the flow of an in-person event and start to make your plans. Don’t forget to engage your network leadership team. They will have lots of ideas and will be ready to help. 
-Be sure to promote your event well in advance and remind your network as the date approaches to make sure that as many people as possible have the chance to participate. 
-Finally, share your progress and any questions with the Global Leadership team (global@womenwhocode.com), and be sure to tweet and share photos and success stories about the event. As you engage in leadership and see your own skills evolve, take note of your thoughts, learnings, how you overcome challenges, how people respond to the movement, etc. 
-If you feel inspired, feel free to write a blog about your own experience. Your story will motivate others and we can post it to your network page on womenwhocode.com:)    
-Good luck with your next event! 
+친애하는 멋진 WWCode 리더 여러분들께, 
+축하합니다! 이제 여러분은 Women Who Code 프로그램에 한걸음 가까워지셨습니다. 이제 무엇을 하면 되냐구요? 
+In-person 이벤트는 WWCode의 주요 연래 행사중에 하나입니다. 이 행사를 통해 사람들에게 커뮤니티가 무엇인지 느끼게하고 네트워크를 만드는 일들을 합니다. 무엇보다도 중요한것은 이 행사를 통해 커뮤니티 회원들에게 기술을 소개하고, 그들의 technical 커리어를 발전시키는데 자신감을 북돋아 줍니다. 
+여러분들은 이미 이러한 것들을 충분히 갖추었습니다. 여러분들은 기술분야에 종사하고 있는 다른 여성분들에게 영감을 북돋아주는 일을 하는데 열정적이며, 업계 경험을 가지고 있고, 당신의 능력과 지식을 공유할 준비가 되어 있습니다.   
+이 문서를 통해 in-person event를 준비하는 과정에 대해 이해하실 수 있으며, 계획을 세우기 시작하시기 바랍니다. 커뮤니티를 담당하는 리더분들에게 연락하는 것도 잊지 마세요. 이미 많은 아이디어를 가지고 있을 것이며 도와줄 준비가 되어있을 것 입니다.  
+당신이 준비한 행사를 사전에 잘 홍보하는 것도 명심하세요 그리고 행사 날짜가 다가오면 가능한 많은 사람들이 참석할 수 있도록 아는 분들에게 다시한번 상기시켜 주시기 바랍니다. 
+마지막으로, 당신의 발전을 공유하고 혹시나 궁금한사항이 있다면 Global Leadership team (global@womenwhocode.com)에게 바로 질문하세요. 트윗이나 사진을 공유하고 이 행사의 성공담을 공유하는것도 잊지마세요. 리더쉽과 연락하고 당신의 능력이 성장하는 것을 보고, 당신의 생각, 배움, 어떻게 도전을 극복했는지 how people respond to the movement 등등을 기록하세요. 
+영감을 받았다면, 당신의 경험을 자유롭게 블로그에 포스팅하세요. 당신의 이야기는 다른사람들을 움직일 것이며 우리또한 당신의 네트워크에 womenwhocode.com 을 알릴 수 있어요:)    
+당신의 다음 이벤트가 성공적이길 기원하며! 
 Best,
 Joey, Jodi, +the Global Team
 
 
 ## BUILD TEAM INCREDIBLE
 
-Each event will require a solid leadership team. It’s easier and more fun with a friend! We recommend that at least 2 leaders are involved in the planning team for each event. Here are some roles that might engage. Directors or other leaders may step in, especially in the beginning or if these roles are not filled.  
+매 행사에는 함께할 리더쉽 팀이 필요합니다. 친구와 함꼐 하는것은 훨씬 쉽고 재밌을꺼에요! 각 이벤트마다  최소 두명 이상의 리더가 계획에 참여하는 것을 권장합니다. 여기 관련하여 몇가지 역할들이 있습니다. 특히 초기 단계 혹은 이 역할을 하실 분이 구해지지 않는 경우에는 Directors 혹은 다른 리더들이 참여하시면 됩니다.   
 
 **Evangelists might:**
 
-* Create content to describe the event. 
-Promote the event on social media.
-* Take photos and share tweets / facebook posts during the event. 
+* 이벤트를 소개할 컨텐츠를 생성합니다. 
+이벤트를 소셜 미디어에 홍보합니다.
+* 사진을 찍고 트위터에 공유해요 / 이벤트가 진행되는 동안 페이스북에 포스팅해요. 
 
-** For Technical Study Groups, Leads might:** 
-* Design technical program. This might include: 
-* Selecting a tutorial from the WWCode Github repository to be used for a study group.
-* Inviting engineers or guests to give product demos or technical talks.
-* Prep any event materials or slideshows.
-* Lead the event program.   
-* Serve as a mentor during the event to motivate people and keep them going. 
+** 스터디 그룹의 경우에, 리더들이 해야할 일은:** 
+* 기술 프로그램을 계획합니다. 아래의 사항들이 포함될 것입니다: 
+* WWCode 깃허브 리파지토리에서 스터디 그룹에서 사용될 튜토리얼을 선택합니다.
+* 데모나 기술 세션을 진행해줄 엔지니어 혹은 손님을 초대합니다.
+* 행사관련 자료나 슬라이드를 준비합니다.
+* 프로그램을 진행합니다.   
+* 이벤트가 진행되는 동안에 멘토로서 사람들에게 동기부여를 하고 계속 참여할 수 있도록 이끌어줍니다. 
 
-** For monthly and special events, Directors or other network leadership team members might: ** 
-* Design the program.
-* Invite speakers and guests to participate. 
-* Prep any event materials or slideshows.
-* Lead the event program.  
-* Welcome guests and participants.
-* Thank the event host. 
-* Moderate panels.
-* Introduce speakers.
-* Give a WWCode update. 
+** 월간 행사 혹은 특별한 행사의 경우에는, Directors 혹은 다른 리더십팀 멤버가 해야할 일은: ** 
+* 프로그램을 기획합니다.
+* 이벤트에 참여할 연사나 손님을 초대합니다. 
+* 행사관련 자료나 슬라이드를 준비합니다.
+* 프로그램을 진행합니다.  
+* 손님과 참석해주신 분들에게 감사 인사를 전합니다.
+* 이벤트 호스트에게 감사인사를 전합니다. 
+* 패널들에게 소개를합니다.
+* 연사를 소개합니다.
+* WWCode 소식을 업데이트 합니다. 
 
 
 ## PLAN YOUR EVENT
-A WWCode Hack Night is a great first event, especially when combined with a panel or a few lightning talks.  A hack night is more social than technical, and has a fluid, open program. 
-Events often happen in the evening, after work. They could also happen during the day, if it fits better with the tech culture in your city. Popular event times are: 6.30p - 8.30p and 7p - 9p. 
+WWCode Hack Night는 첫번채 행사로써 아주 제격입니다. 특히 패널들을 소개하고 몇가지 가벼운 주제로 이야기하는데 적합합니다. hack night 은 기술에 집중하기 보다는 서로 교류하고 열려있는 프로그램입니다.
+주로 업무가 끝난 후인 저녁시간대에 개최됩니다. 개최하는 도시의 문화에 따라 낮에 개최하는 것도 가능합니다. 보통 인기있는 시간대로는: 6시30분 - 8시30분 혹은 7시 - 9시 입니다. 
 
-**Sample 2 hour event outline:**
-* **:30 - Event Check-in, eating, networking** Pro Tip: this 30 minutes will allow for a bit of a buffer in case people run late or need to check in with building security.
-* **:05 - Recognize host + given them up to 5 min to address the community** Pro Tip: Display their logo on a slide. Suggest that the company use this time to have an engineer share how awesome it is to work for their company and offer tips on how to apply OR give a short product demo. 
-* **:05 - Introductions Pro Tip:** For a small group, use WWCode style intros by asking everyone to answer a fun question. For large groups, ask people to introduce themselves to 2 people near them - they can still answer the fun question OR hold a raffle and invite 5 people to introduce themselves to the audience.
-* **:05 - WWCode overview or update Pro Tip:** Use the director starter talk deck as a reference. Share updates about your network or the organization, highlight key successes, call out upcoming events, remind members about the Code of Conduct, and celebrate #ApplaudHers.
-* **:60 - Core program ProTip:** For a Hack Night, each member has the opportunity to make an announcement - it could be what they are currently doing or something that they hope to see in their community to propel women in tech. Yours should be that you would like to meet with anyone who has ideas about how to make WWCode in your city awesome. After the announcements, people can connect to exchange ideas and talk more about what they heard. A hack night can be even more successful if it opens with a short panel or a few lightning talks to get things started.  
-* **:15 - Final questions / networking / coding / clean up** Pro Tip: End on time. Clean up. Leave the room better than you found it. We want to make sure that the host wants to have us back:)  
+**2시간 이벤트 행사개요(예시):**
+* **:30 - 이벰트 등록시작, 식사 및 네트워킹** 프로 팁: 늦게 시작하게 되는 경우 혹은 건물의 안전상의 이유로 점검할 것이 있는 경우 30분 정도의 여유시간을 두는 용도로 사용할 수 있습니다.
+* **:05 - 호스트를 소개하고 5분정도 커뮤니티 소개를 진행합니다. ** 프로 팁: 슬라이드에 로고를 삽입합니다. 회사에게 이 시간을 통해 그 회사에서 일하는것에 대한 자랑 및 입사지원서를 작성할때의 팁 혹은 가벼운 제품 소개 등으로 사용할 수 있다고 소개합니다. 
+* **:05 - 소개 프로 팁:** 소규모의 그룹을 위한 WWCode 스타일의 인트로는 참석자들에게 몇가지 질문을 던지는 것 입니다. 대규모의 그룹에게는 참석자들이 자신의 근처에 앉은 두명의 다른 사람들과 인사하게끔 하는 시간을 가지는 것 입니다 - 여전히 몇가지 재밌는 질문을 해볼수도 있고 추첨을 하는 시간을 가지거나 다섯 명을 초청하여 청중에게 소개하는 시간을 가집니다.
+* **:05 - WWCode 소개 혹은 업데이트 프로 팁:** 운영진이 소개 슬라이드를 이용하여 소개하는 시간을 갖습니다. 네트워크나 조직이 업데이트된 소식을 전하거나 몇가지 주요 성과들을 소개하고, 다가오는 이벤트를 소개하거나 구성에게 Code of Conduct를 다시한번 상기시키고 #ApplaudHers를 축하해줍니다.
+* **:60 - 핵심 프로그램 프로 팁:** Hack Night의 경우 각 멤버들은 공지사항을 전달할 수 있는 기회를 가지게 됩니다 - 그들이 현재 진행하고 있는 것이 될수도 있고 그들이 기술 분야의 여성을 장려하기 위해 지역 사회에서 볼 수 있기를 희망하는 것이 될 수도 있습니다. Yours should be that you would like to meet with anyone who has ideas about how to make WWCode in your city awesome. 공지사항을 안내한 후 참석자들은 서로 아이디어를 공유하고 그들이 최근에 들은 것에 대한 이야기를 할 수도 있습니다. 짧은 패널토크를 열거나 몇개의 가벼운 대담을 진행해보는 것도 hack night을 더욱 성공적으로 만들 수 있습니다.  
+* **:15 - 마지막 질의응답 시간 / 네트워킹 / 코딩 / 마무리** 프로 팁: 마무리 및 정리. 처음 도착했을 때 보다 더 깨끗이 공간을 정리해놓고 떠나시길 바랍니다. 주최자가 우리 이벤트를 한번 더 하길 원하게 되기를 바랍니다:)  
 
 ## HASHTAG #APPLAUDHER
 
-*#ApplaudHer* is a great add on to any event. Some ways to incorporate #ApplaudHer into your next event: 
-Create an #ApplaudHer wall where members can post successes of theirs or others as they are networking. Members could write on post it notes and stick them, you could post flip charts, or use a dry erase board. 
+*#ApplaudHer* 는 어떠한 종류의 이벤트에도 추가할 수 있습니다. 다음번 이벤트에 #ApplaudHer 를 포함하는 몇 가지 방법: 
+Create an #ApplaudHer 벽을 만들어서 그들이나 혹은 다른사람드의 성공담을 적고 네트워킹시간에 공유할 수 있도록 합니다. Members could write on post it notes and stick them, you could post flip charts, or use a dry erase board. 
 Ask your audience to raise their hand if they’ve experienced a career success in the last 6 months. Next, call on members to stand and share their story in 60 seconds or less. This showcases your members while adding lightning talks to your program:) 
 
 ## CORE PROGRAM FORMATS
 
-Most events follow a similar outline. The core program is what makes the event unique. Here are some common formats: 
+대부분의 이벤트들은 비슷한 아웃라인을 따라갑니다. 핵심 프로그램은 이벤트를 더욱 특별하게 합니다. 여기 몇가지 포맷이 있습니다: 
 
 ### Technical Study Groups 
-Technical study groups are the most common event type. A lead will choose a tutorial from the WWCode Github repository or other technical project. Participants can either choose to work through the tutorial at their own pace or work on their own project. This means that people of all levels can participate at the same time. Leads serve as mentors to help when people find themselves blocked or needing help. 
+기술 스터디 그룹은 가장 흔한 이벤트 타입입니다. 리더가 WWCode 깃허브 리파지로부터 튜토리얼을 선택하거나 혹은 달느 기술 프로젝트를 선택할 수 있습니다. 참석자들은 튜토리얼을 통해 학습하는 것을 선택하거나 그들 자신의 프로젝트를 진행할 수 있습니다. 모든 레벨의 참석자들이 동시에 참석하다는 것을 의미합니다. 리더들은 사람들이 막힌 부분에 도움을 주거나 도움이 필요할때 도와주는 멘토 역할을 합니다. 
 
 ### Panel Event 
-Panel events are a great way to invite multiple voices to discuss key topics. You might have 4 - 5 panel members + a moderator for a one hour core program. Pro Tip: the moderator should have a call to prep panelists in advance to get to know a little about them and prep them for the discussion. Ask panelists to share with the moderator any key questions that they’d like to answer or topics that they’d like to discuss. Encourage panelists to have dialogue on stage about each question, if they have something to add. Be sure to allow time for audience questions (and maybe ask a few specific people to prepare questions to get things going). Finally, go out with a bang! Consider a final question to wrap up the event. You might want to share this with panelists in advance so that they can prepare. For example: in 10 words or less, what advice would you offer someone who is interested in a career in tech. 
+패널 이벤트는 다양한 목소리를 가진 사람들이 주요 토픽에 대해 이야기 나누기에 적절합니다. 4 - 5 명의 패널과 진행자가 1시간의 프로그램에 적합합니다. 프로 팁: 진행자는 패널분들과 사전에 연락하여 참석하는 분들에 대한 정보를 알고 토론을 준비할 수 있습니다. 패널 토론자에게 토론 할 주요 질문이나 토론하고 싶은 주제를 진행자와 공유하도록 요청합니다. 패널로 참여하시는 분들 모두가 각각의 질문에 대해 혹시 첨언하고 싶은 부분이 있다면 답변할 수 있도록 장려합니다. 관객이 질문할 시간을 가지도록 시간을 마련합니다 (혹은 사전에 몇몇 분들께 질문을 요청할 수도 있습니다). 마지막으로, 파이팅하세요! 행사를 마무리하기 위한 마지막 질문을 생각해보세요. 패널로 참여하시는 분들이 질문에 준비할 수 있도록 사전에 질문을 공유하여도 됩니다. 예를 들어: 기술분야에서 경력을 쌓고 싶은 누군가에게 10자 내외로 조언을 한다면 어떤 말씀을 해주실껀가요? 
 
 ### Fireside Chat
-Fireside chats are a chance to have an intimate conversation with a top tech leader in front of an audience. There is an interviewer who asks the executive questions, about their career, company, or expertise. Pro Tip: the interviewer should connect with the executive in advance to discuss what questions will be asked and any key topics that they would like to discuss or avoid. Members can submit questions in advance that the interviewer can use. Often, executives may opt not to take audience questions during the event to avoid surprises. Determine this in advance so everyone will be comfortable. 
+Fireside chats 란, 테크 전문과들과 청중이 즉각적인 대화를 할수 있는 기회입니다. 커리어라던지 회사 혹은 전문 분야에 대한 주요 질문을 하는 질문자가 있습니다. 프로 팁: 질문자는 전문가와 사전에 어떤 질문들이 나올지 논의하여야 하며 주로 토의할 내용 혹은 피하고자 하는 내용을 사전에 협의하여야 합니다. 참석자들은 질문자가 사용할 수 있도록 질문들을 사전에 제출합니다. 종종, 전문가들은 이벤트 중간에 질문을 받는것을 꺼려합니다. 모두에게 편안한 시간이 되도록, 이것을 허용할지 여부를 사전에 결정하기 바랍니다. 
 
 ### Keynote Speakers 
-Keynotes are a chance for engineers and tech leaders to share their knowledge. Keynotes can range from 15 minutes to one hour. Often, speakers will take audience questions as part of their keynote. Pro Tip: connect in advance with speakers to determine what audio-visual support they will need. For example, they might require a projector, remote clicker, want to play a video, bring their own laptop, or share slides in advance. 
+키노트란 엔지니어들과 테크 리더들이 그들의 지식을 공유할 수 있는 기회입니다. 키노트는 15분 부터 1시간 정도로 구성됩니다. 종종, 연사들은 그들의 키노트 시간 일부로 청중들로부터 질문을 받습니다. 프로 팁: 발표자와 사전에 미리 연락하여 어떤 음향 및 발표관련 도구가 필요한지 논의합니다. 예를 들어, 프로젝터를 필요로 할 수 도 있고, 리모트 클리커, 비디오를 상영하고 싶어할 수도 있고, 그들의 노트북을 가져오기를 원할 수도 있으며, 사전에 발표자료를 전달할 수도 있습니다. 
 
 ### Lightning Talks
-Lightning talks are a series of shorter key notes. They range from 60 seconds to 15 minutes. This is a great first speaking experience for engineers who have knowledge to share, but might be a bit nervous about giving a longer talk. It’s also a great way to fill your event with dynamic content and diverse voices from within WWCode’s membership. At the end of the event, you might want to call all speakers to the front to take audience questions together. You can also do a ‘last call’ for impromptu lighting talks that might have been inspired throughout the evening. Pro Tip: Be sure to connect with speakers in advance to determine what audio-visual support they will need. For example, they might require a projector, remote clicker, want to play a video, bring their own laptop, or share slides in advance.  
+Lightning talks는 짧은 키노트 시리즈 입니다. 대게 60 초에서 15분 사이로 진행됩니다. 이것은 자신의 지식을 공유하고 싶어하지만 발표를 길게하는것에 부담을 느끼는 엔지니어들이 처음 발표하기에 적합한 기회입니다. 또한 행사를 다양한 컨텐츠와 WWCode의 회원들의 다양한 목소리로 채우기에 적합합니다. 행사 마지막 부분에서는 모든 발표자들이 앞으로 나와서 청중의 질문을 받는 시간을 가지는 것도 고려해볼만 합니다. 혹은 행사중간에 즉흥적으로 ligithing talk를 제안할 수도 있습니다. 프로 팁: 발표자들과 사전에 연락하여 음향 및 발표 관련 장치가 필요한 지 논의하기 바랍니다. 예를 들어, 프로젝터를 필요로 할 수 도 있고, 리모트 클리커, 비디오를 상영하고 싶어할 수도 있고, 그들의 노트북을 가져오기를 원할 수도 있으며, 사전에 발표자료를 전달할 수도 있습니다.  
 
 ### Product Demos 
-Product demos are an opportunity for companies to showcase their products and for our members to build their tech skills. Examples include: product APIs and best practices for using the platform or product. Pro Tip: encourage the company to donate access to the product for each member. Consider having members use the product in a project so that they can gain hands on experience. 
+기술 데모는 회사에서 그들의 상품을 보여줄 수 있는 기회이며 참석자들에게는 기술을 발전시킬 수 있는 기회입니다. 예를들어 다음의 사항이 포함됩니다: 제품의 API와 플랫폼이나 제품을 이용한 사례 시연. 프로 팁: 회사에서 참여자들에게 제품을 사용해 볼 수 있는 기회를 제공하도록 장려합니다. 멤버들은 프로젝트에 제품을 사용해 봄으로써 직접 사용해보는 경험을 체험할 수 있습니다. 
 
 ## EVENT CHECKLIST
 
-To help you plan, here’s a checklist that can be used for each event: 
+이벤트를 기획할때 도움이 되실 수 있도록 각 이벤트마다 사용할 수 있는 체크리스트가 있습니다: 
 
-- [ ] Identify the event planning team; example:
-  - [ ] 1 - 2 Directors
-  - [ ] 1 - 2 Leads
-  - [ ] 1 Evangelist
-  - [ ] Other event volunteers, as needed	
-- [ ] Choose topic / event style
+- [ ] 이벤트를 개최하기 위한 팀원들을 구성하세요; 예를 들면:
+  - [ ] 1 - 2 책임자
+  - [ ] 1 - 2 리더
+  - [ ] 1 에반젤리스트
+  - [ ] 봉사자들, 필요한만큼	
+- [ ] 주제 선정 / 이벤트 스타일
     - [ ] Program focus: technical skills, leadership, writing, speaking, career 
-    - [ ] Style: hack night, study group, panel, lightning talks, product demo, etc.
-- [ ] Plan an agenda
-- [ ] Confirm Host and what the facility offers:
-    - [ ] Food & drinks
-    - [ ] Internet
-    - [ ] Size / breakout rooms, if needed
+    - [ ] 스타일: hack night, 스터디 모임, 패널토크, 가벼운 소개, 기술 시연 등등.
+- [ ] Agenda 계획
+- [ ] 주최자를 확정하고 시설을 확인합니다:
+    - [ ] 음식 및 음료
+    - [ ] 인터넷
+    - [ ] 공간 크기 / breakout 방, 필요한 경우
     - [ ] Wifi
-    - [ ] AV, projectors, etc.
-- [ ] Confirm speakers and external guests 
-- [ ] Post event on Meetup
-- [ ] Promote and marketing the event through social media
-- [ ] Conduct an awesome event; you might need: 
-    - [ ] Presentation / materials
-    - [ ] WWCode Stickers
-    - [ ] Name tags
+    - [ ] AV, 프로젝터 등등.
+- [ ] 발표자 및 초대 손님 확정 
+- [ ] 밋업에 이벤트 등록
+- [ ] 소셜 미디어를 통한 이벤트 프로모션 및 마케팅
+- [ ] 더 멋진 이벤트 개최를 위해 필요한 것들: 
+    - [ ] 발표자료 / 준비물
+    - [ ] WWCode 스티커
+    - [ ] 이름표
 - [ ] Complete your post event wrap
-    - [ ] Email / tweet thanks to speakers, host, and volunteers
-    - [ ] Planning team retro to review what went well and any improvements
-    - [ ] Share best practices / key learnings with other leaders
-- [ ] Repeat!:)
+    - [ ] 발표자들 및 주최자, 자원봉사자들에게 이메일 혹은 트윗을 통한 감사인사 전하기
+    - [ ] 기획팀이 복습을 통해 잘 된 점과 개선점을 검토
+    - [ ] 좋았던 점 및 주요 배울 점들을 다른 리더들과 공유합니다
+- [ ] 반복합니다!:)
