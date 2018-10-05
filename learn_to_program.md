@@ -84,6 +84,10 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 ### General Programming
 
 - [$ cheat browse http://cheat.errtheblog.com](http://cheat.errtheblog.com/)
+- [1 Million Women to Tech](https://1millionwomentotech.com/) has online coding classes that start a few times per year.
+  - [Summer of Code](https://github.com/1millionwomentotech/toolkitten) is a 12 week introduction to python, nltk, javascript, and more. The syllabus is posted on github along with additional resources.
+  - Winter of Data course begins shortly after the Summer of Code ends.
+  - This resource has a free (DIY) version and a paid (certification) version. The paid version allows you to watch/participate in live classes and Q&A, and apply for certification, plus it supports the organization in offering the same course to more students at no cost. The free version allows you to view the classes at your own speed but will not result in a certificate.
 - [5 more ways to start learning how to code right now for free](http://thenextweb.com/dd/2012/02/02/5-more-ways-to-start-learning-how-to-code-right-now-for-free/)
 - [5 Ways To Learn Code From The Comfort Of Your Own Browser | TechCrunch](http://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser)
 - [Also, Why I'm learning to code](http://also.roybahat.com/post/11574823708/why-im-learning-to-code)
@@ -91,6 +95,7 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [CS50x: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 - [DevDocs](http://devdocs.io)
 - [Free Code Camp](https://www.freecodecamp.com/)
+- [Girls in Tech Global Classroom](http://globalclassroom.girlsintech.org/) is an online learning program offering tech related courses, such as 3-D Tinkercad design, to girls and women, at no cost.
 - [Google Developers - Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/?hl=en)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [learn to code the hard way](http://cli.learncodethehardway.org/)
