@@ -59,7 +59,11 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [Android Programming](https://www.bignerdranch.com/we-write/android-programming/)
 - [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
 - [Head First Android Development](http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184)
+- [Learn Python the Hard Way 3](https://learnpythonthehardway.org/book/) is a beginner's guide to python. The first 8 chapters and exercises are free to read on the author's website. Beginner level.
+- [Natural Language Processing with Python](http://www.nltk.org/book/) is a free instructional manual on using Python3 with NLTK3. Beginner through advanced.
+- [Professional Javascript for Web Developers](https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20JavaScript%20for%20Web%20Developers%203rd%20Edition.pdf) is a manual intended for experience web developers and/or those who are familiar with javascript.
 - [Programming Android](http://www.amazon.com/dp/1449389694?tag=top-books-cs-20)
+- [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) is the first in a series of javascript texts by Kyle Simpson. Free. Beginner level.
 
 ### C/C++
 
