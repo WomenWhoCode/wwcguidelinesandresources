@@ -60,6 +60,7 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
 - [Head First Android Development](http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184)
 - [Programming Android](http://www.amazon.com/dp/1449389694?tag=top-books-cs-20)
+- [An Introduction to Statistical Learning] (http://faculty.marshall.usc.edu/gareth-james/ISL/) -:free:-
 
 ### C/C++
 
