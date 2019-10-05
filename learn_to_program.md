@@ -6,7 +6,7 @@ Feel free to contribute new links and resources to this document.
 
 Please add your resource under the appropriate heading, creating new ones where necessary.
 
-It'd also be great if you added a few words describing your resource!
+It'd also be great if you add a few words describing your resource!
 
 For example: if it's a paid resource, what format it's in, if it's particularly good for beginner or advanced people, etc.
 
@@ -38,6 +38,7 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [Selenium](#selenium)
 - [Smalltalk](#smalltalk)
 - [SQL](#sql)
+- [Django](#django)
 
 ### Algorithms
 
@@ -384,3 +385,9 @@ For example: if it's a paid resource, what format it's in, if it's particularly 
 - [Stanford School of Engineering](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
 - [MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/)
 - [edX](https://www.edx.org/)
+- [Udemy](https://www.udemy.com/courses/development/)
+
+### Django
+- [Udemy's the-ultimate-beginners-guide-to-django-python-web-dev-website](https://www.udemy.com/course/the-ultimate-beginners-guide-to-django-python-web-dev-website/)
+- [Django Girls](https://tutorial.djangogirls.org/en/)
+- [Simple is Better than Complex](https://simpleisbetterthancomplex.com/)
